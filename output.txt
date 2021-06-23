@@ -1,0 +1,11 @@
+Enter the city name: ranchi
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 23 Jun 2021 | 07:47:12 AM
+-------------------------------------------------------------
+Current temperature is: 28.06 deg C
+Current weather desc  : haze
+Current Coordination  : {'lon': 85.3333, 'lat': 23.35}
+Current Humidity      : 78 %
+Current Visibility    : 5000
+Current wind speed    : 4.12 kmph
+current Timezone      : 19800
